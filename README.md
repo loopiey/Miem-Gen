@@ -1,2 +1,1 @@
-# Miem-Gen
-Meme generator with React
+A simple react project to practice 🌸
